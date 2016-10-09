@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">To Do list</string>
+    <string name="pop_up_dialog">Name your to do list</string>
+    <string name="save">save</string>
+    <string name="cancel">cancel</string>
+    <string name="title_activity_to_do_lists">ToDoListsActivity</string>
+</resources>
